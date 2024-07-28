@@ -66,3 +66,7 @@ Para rodar o front-end da aplicação, execute:
 - Registro de endereços
 - Edição de registros
 - Listagem de pessoas
+
+## Diagrama do banco
+![image](https://github.com/user-attachments/assets/eb627361-c2f0-46b6-9453-db53d8d48d1b)
+
